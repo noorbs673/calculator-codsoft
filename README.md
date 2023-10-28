@@ -1,1 +1,1 @@
-# calculator-codsoft
+ Calculator using HTML ,CSS and JAVASCRIPT
